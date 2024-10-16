@@ -59,6 +59,8 @@ I'm a Python Django Developer and Software Engineer specializing in building rob
         <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6b1bf7b8b619209db3380bb7d254b3aa8eacd86d708ee47c4efd90c3e770c190/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d626f6f747374726170"><img src="https://camo.githubusercontent.com/6b1bf7b8b619209db3380bb7d254b3aa8eacd86d708ee47c4efd90c3e770c190/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d626f6f747374726170" width="48" height="48" alt="bootstrap" data-canonical-src="https://skillicons.dev/icons?i=bootstrap" style="max-width: 100%;"></a>
       <br>Bootstrap
     </td>
+    </tr>
+    <tr>
     <td align="center" width="96">
         <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f383e4b2c5e8c2ca73221c29ef270d55d82eb3beeb79bd6b409dcb6ab64a4b7c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7461696c77696e64"><img src="https://camo.githubusercontent.com/f383e4b2c5e8c2ca73221c29ef270d55d82eb3beeb79bd6b409dcb6ab64a4b7c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7461696c77696e64" width="48" height="48" alt="tailwind" data-canonical-src="https://skillicons.dev/icons?i=tailwind" style="max-width: 100%;"></a>
       <br>Tailwind
@@ -67,8 +69,6 @@ I'm a Python Django Developer and Software Engineer specializing in building rob
         <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/97939f9db204e8077f372bc4371cd77fc1fe6027e0116d9d2266e7d08dcb76be/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a7175657279"><img src="https://camo.githubusercontent.com/97939f9db204e8077f372bc4371cd77fc1fe6027e0116d9d2266e7d08dcb76be/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a7175657279" width="48" height="48" alt="jquery" data-canonical-src="https://skillicons.dev/icons?i=jquery" style="max-width: 100%;"></a>
       <br>JQuery
     </td>
-    </tr>
-    <tr>
         <td align="center" width="96">
         <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8ac99a8f9df10832e35eb2fb7fad603424fa19b103551cdebf76cbae20d9ef0c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d706f737467726573"><img src="https://camo.githubusercontent.com/8ac99a8f9df10832e35eb2fb7fad603424fa19b103551cdebf76cbae20d9ef0c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d706f737467726573" width="48" height="48" alt="jquery" data-canonical-src="https://skillicons.dev/icons?i=postgres" style="max-width: 100%;"></a>
       <br>PostgreSQL
